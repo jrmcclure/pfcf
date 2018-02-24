@@ -32,3 +32,7 @@ tbody.result-body tr td, tbody.result-body tr th{
 .scratch {
   text-decoration: line-through;
 }
+
+a.navbar-brand.title-header:hover {
+    color: #9d9d9d;
+}
